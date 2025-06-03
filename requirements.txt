@@ -1,0 +1,16 @@
+# Core
+python>=3.10
+
+# 2D Simulation
+pygame>=2.5.0
+
+# 3D Visualization
+panda3d>=1.10.11
+
+# NEAT
+neat-python>=0.92
+
+# Development
+pytest>=7.4.0
+black>=23.3.0
+flake8>=6.0.0
